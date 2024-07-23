@@ -2,8 +2,6 @@
 
 ## Frontend Developer
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
 - **I actively use**: JavaScript, Vue, Html, Tailwind, Css
 - **Generally**: Nuxt, jQuery, React, TypeScript, Scss/Sass, Bootstrap
 
