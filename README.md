@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-- **I actively use**: JavaScript, Vue, Html, Tailwind, Css
+- **I actively use**: JavaScript, Vue, Html, Tailwind, Css `#0969DA`
 - **Generally**: Nuxt, jQuery, React, TypeScript, Scss/Sass, Bootstrap
 
 
