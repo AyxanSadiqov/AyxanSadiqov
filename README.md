@@ -8,6 +8,7 @@
 - `Generally`: Nuxt, jQuery, React, TypeScript, Scss/Sass, Bootstrap
 
 
+**About**
 + 🔭 I’m currently working on Edusisco Education andInformation Technologies
 + ⚡ How to reach me: [Personal website](https://ayxansadiqov.github.io/aykhan-sadigov/)
 
