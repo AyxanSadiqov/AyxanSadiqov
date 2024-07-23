@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-Skills: JavaScript, Vue, Nuxt, jQuery, React, Scss/Sass, Html, Css, Tailwind, Bootstrap
+Skills (I actively use): JavaScript, Vue, Html, Tailwind
 
 - 🔭 I’m currently working on Edusisco Education andInformation Technologies
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aykhan-sadiqov/)
