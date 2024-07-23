@@ -5,7 +5,11 @@
 Skills: JavaScript, Vue, Nuxt, jQuery, React, Scss/Sass, Html, Css, Tailwind, Bootstrap
 
 - 🔭 I’m currently working on Edusisco Education andInformation Technologies
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aykhan-sadiqov/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aykhan-sadiqov/)
+- ⚡ Personal website: [aykhan-sadigov](https://ayxansadiqov.github.io/aykhan-sadigov/)
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AyxanSadiqov/AyxanSadiqov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
