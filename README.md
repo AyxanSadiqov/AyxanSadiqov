@@ -2,8 +2,8 @@
 
 ## Frontend Developer
 
-- **I actively use**: JavaScript, Vue, Html, Tailwind, Css `#0969DA`
-- **Generally**: Nuxt, jQuery, React, TypeScript, Scss/Sass, Bootstrap
+- `I actively use`: JavaScript, Vue, Html, Tailwind, Css
+- `Generally`: Nuxt, jQuery, React, TypeScript, Scss/Sass, Bootstrap
 
 
 + 🔭 I’m currently working on Edusisco Education andInformation Technologies
