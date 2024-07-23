@@ -4,9 +4,8 @@
 
 Skills: JavaScript, Vue, Nuxt, jQuery, React, Scss/Sass, Html, Css, Tailwind, Bootstrap
 
-🔭 I’m currently working on Edusisco Education andInformation Technologies
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aykhan-sadiqov/).
+- 🔭 I’m currently working on Edusisco Education andInformation Technologies
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aykhan-sadiqov/).
 
 <!--
 **AyxanSadiqov/AyxanSadiqov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
