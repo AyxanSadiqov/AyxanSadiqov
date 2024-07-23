@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋, my name is Aykhan
+
+## Frontend Developer
+
+Skills: JavaScript, Vue, Nuxt, jQuery, React, Scss/Sass, Html, Css, Tailwind, Bootstrap
 
 <!--
 **AyxanSadiqov/AyxanSadiqov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
