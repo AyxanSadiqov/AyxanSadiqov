@@ -4,8 +4,8 @@
 
 **Skills**
 
-- `I actively use`: JavaScript, Vue, Html, Tailwind, Css
-- `Generally`: Nuxt, jQuery, React, TypeScript, Scss/Sass, Bootstrap
+- `I actively use` JavaScript, Vue, Html, Tailwind, Css
+- `Generally` Nuxt, jQuery, React, TypeScript, Scss/Sass, Bootstrap
 
 
 
