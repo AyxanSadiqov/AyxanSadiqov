@@ -7,11 +7,10 @@ Skills:
 - **Generally**: Nuxt, jQuery, React, TypeScript, Scss/Sass, Bootstrap
 
 + 🔭 I’m currently working on Edusisco Education andInformation Technologies
-+ 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aykhan-sadiqov/)
-+ ⚡ Personal website: [aykhan-sadigov](https://ayxansadiqov.github.io/aykhan-sadigov/)
++ ⚡ How to reach me: [Personal website](https://ayxansadiqov.github.io/aykhan-sadigov/)
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+  
 
