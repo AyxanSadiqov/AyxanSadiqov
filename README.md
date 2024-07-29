@@ -10,7 +10,7 @@
 
 
 **About**
-+ 🔭 I’m currently working on Edusisco Education andInformation Technologies
++ 🔭 I’m currently working on Edusisco Education and Information Technologies
 + ⚡ How to reach me: [Personal website](https://ayxansadiqov.github.io/aykhan-sadigov/)
 
 
