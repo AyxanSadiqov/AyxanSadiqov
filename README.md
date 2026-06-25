@@ -4,13 +4,13 @@
 
 **Skills**
 
-- `I actively use`: JavaScript, Vue, Html, Tailwind, Css
-- `Generally`: Nuxt, jQuery, React, TypeScript, Scss/Sass, Bootstrap
+- `I actively use`: JavaScript, Vue, Nuxt, Html, Tailwind, Css
+- `Generally`: React, TypeScript, Scss/Sass, jQuery, Bootstrap
 
 
 
 **About**
-+ 🔭 I’m currently working on Edusisco Education and Information Technologies
++ 🔭 I’m currently working
 + ⚡ How to reach me: [Personal website](https://ayxansadiqov.github.io/aykhan-sadigov/)
 
 
